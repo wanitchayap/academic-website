@@ -4,7 +4,7 @@ categories:
  - Side Projects
  # Optional header image (relative to `static/img/` folder).
  header:
-   caption: ""
+   caption: "Thanks to [Coen](https://github.com/SoyBison) for helping with the header image"
    image: "/workshop_figures/analysis_header.png"
 ---
 
