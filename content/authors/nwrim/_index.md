@@ -18,7 +18,7 @@ organizations:
   url: "macss.uchicago.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Master's Student in Computational Social Science, focusing on psychology and neuroscience"
+bio: "Master's Student in Computational Social Science. Research Assistant in the Environmental Neuroscience Lab."
 
 interests:
 - Cognitive Neuroscience
