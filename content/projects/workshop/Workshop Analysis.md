@@ -2,14 +2,14 @@
 title: Analysis of 2019 Fall Quarter UChicago Computational Social Science Workshop Questions
 author: ''
 date: '2020-01-01'
-slug: the-forrest--bounce-and-its-effect-on-triple-stumpers
-aliases: ["/r/the-forrest-bounce-and-its-effect-on-triple-stumpers/"]
+slug:
+aliases:
 categories:
   - side projects
 tags:
 subtitle: ""
 summary: "Are we choosing the best questions, or the earlier questions?"
-authors: []
+authors: 
 featured: no
 image:
   caption: ''
