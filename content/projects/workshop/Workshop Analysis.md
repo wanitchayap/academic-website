@@ -2,10 +2,7 @@
 title: "Analysis of 2019 Fall Quarter UChicago Computational Social Science Workshop Questions"
 categories:
  - Side Projects
- image:
-   caption:
-   focal_point: Smart
-summary: Are we choosing the best questions, or the earlier questions?
+summary: "Are we choosing the best questions, or the earlier questions?""
 ---
 
 ![header](/img/workshop_figures/header.png)
