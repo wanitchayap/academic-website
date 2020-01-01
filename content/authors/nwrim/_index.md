@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: ""
+role: "Master's Student in Computational Social Science"
 
 # Organizations/Affiliations
 organizations:
-- name: ""
-  url: ""
+- name: "University of Chicago"
+  url: "macss.uchicago.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Master's Student in Computational Social Science, focusing on psychology and neuroscience"
 
 interests:
 - Cognitive Neuroscience
-- Executive Functions
+- Human Attention
+- Human Executive Functions
 - Modeling of Human Cognition
 
 education:
