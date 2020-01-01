@@ -3,9 +3,9 @@ title: "Analysis of 2019 Fall Quarter UChicago Computational Social Science Work
 categories:
  - Side Projects
  # Optional header image (relative to `static/img/` folder).
- header:
+ image:
    caption: "Thanks to [Coen](https://github.com/SoyBison) for helping with the header image"
-   image: "/img/workshop_figures/analysis_header.png"
+   focal_point: Smart
 ---
 
 The [Computational Social Science Workshop]( https://macss.uchicago.edu/content/computation-workshop ) at UChicago has a very unique way of gathering questions for the speaker. Prior to the workshop, students enrolled in [Masters in Computational Social Science Program]( https://macss.uchicago.edu/ ) read some materials (usually the research article the presentation is based on) related to the topic of the workshop, and ask questions about the materials on the issue page of a [Github repository]( https://github.com/uchicago-computation-workshop ). Afterward, students later read through the questions posted on the issue page, and upvote ("thumbs up") the question they like. After the workshop presentation, the question(s) with most upvotes gets asked the speaker. This method is to ensure that the "best" questions are asked and answered in the workshops.
