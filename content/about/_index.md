@@ -13,4 +13,6 @@ view: 2
 
 ## Outside Psychology and Neuroscience
 * I like reading short stories and novels, especially English novels. My favorite authors are Kurt Vonnegut and Ernest Hemingway. I have pride that I read _Ulysses_ by James Joyce from top to bottom. I try to keep up with reading Korean novels too, but it got harder after coming to America.
-* I also like talking about baseball stats and listening to music. I support whatever team that is based on the city my partner lives in (currently Toronto Bluejays) although she has absolutely no interest in the sport. I always claim that Beethoven's 5th movement of Beethoven's Symphony 9 is probably the best music ever written, but usually listens to classic rock music (or the Beetles).
+* I also like talking about baseball stats. I support whatever team that is based on the city my partner lives in (currently Toronto Blue Jays) although she has absolutely no interest in the sport. I also played as a catcher in my high school's team, but do not play anymore.
+* Like everybody else, I like listening to music while resting. I always claim that 5th movement of Beethoven's Symphony 9 is probably the best music ever written, but usually listens to classic rock music (or just the Beetles).
+* I also like reading random Wikipedia articles in my free time. You can try it [here](https://en.wikipedia.org/wiki/Special:Random).
