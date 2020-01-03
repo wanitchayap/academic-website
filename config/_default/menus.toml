@@ -19,15 +19,19 @@
   weight = 30
 
 [[main]]
-  name = "Personal Posts"
-  url = "/posts/"
+  name = "CV"
+  url = "/files/cv.pdf"
   weight = 40
 
 [[main]]
-  name = "CV"
-  url = "/files/cv.pdf"
+  name = "Weekly Progress"
+  url = "/progress/"
   weight = 50
 
+[[main]]
+  name = "Personal Posts"
+  url = "/posts/"
+  weight = 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
