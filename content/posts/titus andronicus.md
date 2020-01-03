@@ -8,7 +8,7 @@ categories:
   - reading notes
 tags:
 subtitle: ""
-summary: ""
+summary: "Everybody starts somewhere. You cannot be original and awesome at the very beginning."
 authors:
 featured: no
 image:
