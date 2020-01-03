@@ -8,7 +8,7 @@ categories:
   - personal
 tags:
 subtitle: ""
-summary: "Weekly self-report on what I have done this week"
+summary: "Weekly self-report on what I have done this week."
 authors:
 featured: no
 image:
